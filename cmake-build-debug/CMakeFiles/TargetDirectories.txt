@@ -1,3 +1,0 @@
-/home/qaqorz/pikagu/http_server/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/qaqorz/pikagu/http_server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/qaqorz/pikagu/http_server/cmake-build-debug/CMakeFiles/http_server.dir
